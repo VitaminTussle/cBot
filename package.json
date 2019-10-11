@@ -1,0 +1,16 @@
+{
+  "name": "cBot",
+  "version": "1.0.0",
+  "description": "A discord bot that is capable of replacing all \"ck\"s in a message with \"cc\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified, please run npm start\" && exit 1"
+  },
+  "author": "Deuce Black",
+  "license": "ISC",
+  "dependencies": {
+    "discord-message-handler": "^2.0.1",
+    "discord.js": "^11.5.1"
+  }
+}
