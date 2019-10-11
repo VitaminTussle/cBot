@@ -2,7 +2,8 @@
 cBot Discord Bot Documentation and Information
 
 # COMMANDS:
-!help: Lists commands\n!test: Makes cBot send a message to test if it's online
+!help: Lists commands
+!test: Makes cBot send a message to test if it's online
 !correct [statement]: The main function of cBot, replaces all iterations of "ck" in [statement] with "cc",
                       thereby making it automatically hilarious
 !fix [statement]: Alias for !correct [statement]
